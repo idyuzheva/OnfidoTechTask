@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnfidoTechTask</string>
+    <string name="search">Search</string>
+    <string name="state_loading">Loading…</string>
+    <string name="state_common_error">Something went wrong. Please try later</string>
+    <string name="state_network_error">Network error. Please check your Internet connection</string>
+</resources>
